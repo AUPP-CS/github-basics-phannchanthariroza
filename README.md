@@ -12,9 +12,9 @@ This creates:
 ~/.ssh/id_ed25519.pub (public key)
 
 #### 2. Open and copy your SSH key
-Mac: `cat ~/.ssh/id_ed25519_new_account.pub | pbcopy`
+Mac: `cat ~/.ssh/id_ed25519.pub | pbcopy`
 
-Windows: `cat ~/.ssh/id_ed25519_new_account.pub | clip`
+Windows: `cat ~/.ssh/id_ed25519.pub | clip`
 
 
 You can also simply open the key and using Ctrl/Cmd+C to copy the key:
